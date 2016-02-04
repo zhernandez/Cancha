@@ -1,0 +1,51 @@
+div{
+	background:#66aa33;
+}
+div> div{
+	border:solid #fff 2px;
+}
+.cesped{
+	width:900px;
+	height:500px;
+	padding:20px;
+}
+.cancha{
+		height:100%;
+}
+.izq{
+	height:200px;
+	width:120px;
+	position:relative;
+	left:-2px;
+	top:140px;
+}
+.circulo{
+	width:200px;
+	height:200px;
+	border-radius:100%;
+	position:absolute;
+	left:350px;
+	top:170px;
+}
+.der{
+	height:200px;
+	width:120px;
+	position:absolute;
+	top:170px;
+	right:438px;
+}
+.balonuno{
+	position:absolute;
+	left:140px;
+	top:180px;
+}
+.bolados{
+	position:absolute;
+	left:500px;
+	top:100px;
+}
+.bolatres{
+	position:absolute;
+	left:770px;
+	top:350px;
+}
